@@ -1,0 +1,16 @@
+***set up frontend***
+
+navigate to "aisight" folder with comand propt.
+->aisight->npm install
+
+after installing node_modules
+->aisight->npm start
+
+
+***set up backend***
+
+navigate to "aisight_backend" folder with comand propt.
+->aisight_backend->npm install
+
+after installing node_modules
+->aisight->node server
